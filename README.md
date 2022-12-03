@@ -1,5 +1,8 @@
 <div align="center">
 
+# Essa é a continuação do projeto Ifruits.
+Decidi continuar a implementação do projeto, pois existiam implementações que eu gostaria de concluir...
+
 # Projeto Integrador DH
 
 <p>Projeto Criado para conclusão do curso "Desenvolvimento Web Full Stack"</p>
