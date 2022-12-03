@@ -18,17 +18,12 @@
 
 Back End
 ---
-NodeJS
-Express
-Sequelize
-MySql
+NodeJS |
+Express |
+Sequelize |
+MySql |
 
 </div>
-
-</br>
-# links úteis
-Figma:
-https://www.figma.com/file/uGexnltVMB6byfFNcdslbE/Untitled?node-id=0%3A1&t=DGleUNl5dnvVlLZ8-0
 
 # Start Project
 
@@ -39,14 +34,12 @@ git clone https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH.git
 # install dependecies
 npm install
 
-# Utilizando o arquivo .env-example, replique o mesmo com a descrição ".env" e preencha os dados das suas variáveis locais, tanto no back-end quanto no front-end
+# Utilizando o arquivo .env-example, replique o mesmo com a descrição ".env" e preencha os dados das suas variáveis locais
 
 # No diretório back-end run application (terminal primary)
 npm run dev
 
-# No diretório front-end run application (terminal primary)
-npm run dev
-
+# Caso já tenha instalado o Mysql, basta rodar o comando npm run database para criar o banco e as tabelas pela migration
 ```
 
 </br>
