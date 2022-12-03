@@ -1,13 +1,11 @@
 <div align="center">
 
 # Essa é a continuação do projeto Ifruits.
-Decidi continuar a implementação do projeto, pois existiam implementações que eu gostaria de concluir...
-segue link do repositório do projeto finalizado pelo grupo da turma DH
-https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH
+<p>Decidi continuar a implementação do projeto, pois existiam implementações que eu gostaria de concluir...</p>
+<p>Segue link do repositório do projeto finalizado pelo grupo da turma DH:</p>
+<p>https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH</p>
 
-# Projeto Integrador DH
-
-<p>Projeto Criado para conclusão do curso "Desenvolvimento Web Full Stack"</p>
+# Projeto Ifuits
 
 [![made in brazil](https://img.shields.io/badge/state%20-bulding-009.svg?style=for-the-badge)]() [![made in brazil](https://img.shields.io/badge/made%20in-brazil-008751.svg?style=for-the-badge)](https://www.google.com/maps/place/brazil)
 </div>
@@ -18,13 +16,12 @@ https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH
 
 <div style="font-size: 1.3rem" align="center">
 
-Front End   | Back End     | DevOps         | Data Analytics 
----         | ---          | ---            | ---            
-HTML5       | NodeJS       | Under analysis | Under analysis 
-CSS3        | Express      
-Javascript  | Sequelize    
-Tailwindcss | MySql
-Reactjs     |
+Back End
+---
+NodeJS
+Express
+Sequelize
+MySql
 
 </div>
 
