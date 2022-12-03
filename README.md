@@ -2,6 +2,8 @@
 
 # Essa é a continuação do projeto Ifruits.
 Decidi continuar a implementação do projeto, pois existiam implementações que eu gostaria de concluir...
+segue link do repositório do projeto finalizado pelo grupo da turma DH
+https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH
 
 # Projeto Integrador DH
 
@@ -52,15 +54,4 @@ npm run dev
 
 </br>
 
-# Developers
-by [SystemOfLima](https://github.com/SystemOfLima)
-
-by [ALANVILASBOAS](https://github.com/ALANVILASBOAS)
-
-by [souzafilhoisac](https://github.com/souzafilhoisac)
-
-by [mvlopesm](https://github.com/mvlopesm)
-
-by [saviocode](https://github.com/saviocode)
-
-by [peresribeirocaroline](https://github.com/peresribeirocaroline)
+# Developer by [souzafilhoisac](https://github.com/souzafilhoisac)
