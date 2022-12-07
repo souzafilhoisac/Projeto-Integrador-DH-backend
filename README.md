@@ -1,7 +1,7 @@
 <div align="center">
 
-# Essa é a continuação do projeto Ifruits.
-<p>Decidi continuar a implementação do projeto, pois existiam implementações que eu gostaria de concluir...</p>
+# Essa é uma continuação do projeto Ifruits.
+<p>Decidi continuar o projeto, pois existiam implementações que eu gostaria de concluir...</p>
 <p>Segue link do repositório do projeto finalizado pelo grupo da turma DH:</p>
 <p>https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH</p>
 
