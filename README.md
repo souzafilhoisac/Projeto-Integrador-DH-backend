@@ -39,7 +39,10 @@ npm install
 # No diretório back-end run application (terminal primary)
 npm run dev
 
-# Caso já tenha instalado o Mysql, basta rodar o comando npm run database para criar o banco e as tabelas pela migration
+# Caso já tenha instalado o Mysql, basta rodar o comando:
+npm run database
+
+# O comando acima irá criar o banco de dados e as tabelas
 ```
 
 </br>
